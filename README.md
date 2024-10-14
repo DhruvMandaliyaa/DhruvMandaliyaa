@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @DhruvMandaliyaa
-- 🌱 I’m currently learning App Devlopment!
+- 🌱 I’m Java Backend Devloper
+- Springboot enthusiastic
+- 
 
 <!---
 DhruvMandaliyaa/DhruvMandaliyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
